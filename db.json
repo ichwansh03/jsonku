@@ -1,0 +1,22 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "nama": "Ichwan Sholihin",
+        "npm" : "19312131"
+      },
+      {
+        "id": 2,
+        "nama": "Ujang",
+        "npm" : "19312132"
+      },
+      {
+        "id": 3,
+        "nama": "Abdul",
+        "npm" : "19312133"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
